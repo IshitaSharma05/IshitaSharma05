@@ -33,4 +33,5 @@
 
 ### 🎨 **Fun Fact:**
 💡 "Great ideas don’t come from comfort zones. I love exploring tech & startups to make an impact!"  
+
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXF2dTcyOWJwZGw3Y3l0NmppZTA3NmRrZXN5OGJ6Mm93NzhlbmJzMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="300px"/>  
