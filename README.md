@@ -1,5 +1,6 @@
-<p align="center">
 ![Banner GIF](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif)
+
+<p align="center">
 
 # ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ishita+Sharma!+👋)
 
@@ -41,14 +42,11 @@
 
 ---
 
-
-  <img src="https://media.giphy.com/media/l41Yx9t7ews5bG4fu/giphy.gif" width="200"> 
-  <img src="https://media.giphy.com/media/j2pWZpr5RlpCodOB0d/giphy.gif" width="200"> 
+<p align="center">
   <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="200">
-  <img src="https://media.giphy.com/media/l41Yx9t7ews5bG4fu/giphy.gif" width="200"> 
   <img src="https://media.giphy.com/media/j2pWZpr5RlpCodOB0d/giphy.gif" width="200"> 
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"> 
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="200">
+</p>
 ---
 
 🔹 **Let's Connect & Build Something Awesome Together!** 🚀
