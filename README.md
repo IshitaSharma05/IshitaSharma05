@@ -1,3 +1,5 @@
+![Banner GIF](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif)
+
 # 👋 Hey there, I'm Ishita Sharma!  
 ### 🚀 Engineering Student | 💡 Tech Visionary | 🌐 Web & AI Enthusiast  
 
@@ -34,4 +36,13 @@
 ### 🎨 **Fun Fact:**
 💡 "Great ideas don’t come from comfort zones. I love exploring tech & startups to make an impact!"  
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXF2dTcyOWJwZGw3Y3l0NmppZTA3NmRrZXN5OGJ6Mm93NzhlbmJzMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="300px"/>  
+---
+
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">  
+<img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="200">  
+<img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="200">  
+
+---
+
+🔹 **Let's Connect & Build Something Awesome Together!** 🚀
+
