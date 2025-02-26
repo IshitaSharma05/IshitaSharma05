@@ -15,23 +15,22 @@
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
 
-### 📊 **GitHub Stats:**
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IshitaSharma05&theme=tokyonight)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IshitaSharma05&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshitaSharma05&layout=compact&theme=tokyonight)  
+🎨 **Hobbies & Interests:**  
+✨ Doodling |💃 Dancing | 📖 Reading 
 
 ---
 
 ### 🌍 **Connect with Me:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishita-sharma-859037283/)
+[![Devfolio](https://img.shields.io/badge/Devfolio-18A3DD?style=for-the-badge&logo=devfolio&logoColor=white)](https://devfolio.co/@Ishita_sharma_/readme-md)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishitas0503@gmail.com)  
 
 ---
 
 ### 🎨 **Fun Fact:**
 💡 "Great ideas don’t come from comfort zones. I love exploring tech & startups to make an impact!"  
-
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXF2dTcyOWJwZGw3Y3l0NmppZTA3NmRrZXN5OGJ6Mm93NzhlbmJzMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="300px"/>  
