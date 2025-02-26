@@ -1,6 +1,7 @@
 ![Banner GIF](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif)
 
-# 👋 Hey there, I'm Ishita Sharma!  
+# ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Ishita+Sharma!+%F0%9F%91%8B)
+
 ### 🚀 Engineering Student | 💡 Tech Visionary | 🌐 Web & AI Enthusiast  
 
 🌱 Currently exploring **AI, Web Development & Startups**  
@@ -38,9 +39,11 @@
 
 ---
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">  
-<img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="200">  
-<img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="200">  
+<p align="center">
+  <img src="https://media.giphy.com/media/l41Yx9t7ews5bG4fu/giphy.gif" width="200"> 
+  <img src="https://media.giphy.com/media/j2pWZpr5RlpCodOB0d/giphy.gif" width="200"> 
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="200"> 
+</p>  
 
 ---
 
