@@ -1,6 +1,8 @@
+<p align="center">
 ![Banner GIF](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif)
 
-# ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Ishita+Sharma!+%F0%9F%91%8B)
+# ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ishita+Sharma!+👋)
+
 
 ### 🚀 Engineering Student | 💡 Tech Visionary | 🌐 Web & AI Enthusiast  
 
@@ -39,13 +41,16 @@
 
 ---
 
-<p align="center">
+
   <img src="https://media.giphy.com/media/l41Yx9t7ews5bG4fu/giphy.gif" width="200"> 
   <img src="https://media.giphy.com/media/j2pWZpr5RlpCodOB0d/giphy.gif" width="200"> 
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="200"> 
-</p>  
-
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="200">
+  <img src="https://media.giphy.com/media/l41Yx9t7ews5bG4fu/giphy.gif" width="200"> 
+  <img src="https://media.giphy.com/media/j2pWZpr5RlpCodOB0d/giphy.gif" width="200"> 
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"> 
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="200">
 ---
 
 🔹 **Let's Connect & Build Something Awesome Together!** 🚀
 
+</p>  
